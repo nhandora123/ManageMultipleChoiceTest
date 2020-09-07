@@ -1,6 +1,9 @@
 # ManageMultipleChoiceTest
 >This App is written by Winform(C#) has 2 main features for 2 users that is Student and Teacher.
 
+#### Graphic Logic Diagram  
+![Diagram](https://github.com/nhandora123/ManageMultipleChoiceTest/blob/master/public/LogicDiagram.png)
+
 #### Graphic SignIn(include Student and Teacher)  
 ![signInTest](https://github.com/nhandora123/ManageMultipleChoiceTest/blob/master/public/SignIn.png)
 
@@ -18,6 +21,3 @@
 
 #### Graphic Update Answer(Teacher)  
 ![UpdateAnswer](https://github.com/nhandora123/ManageMultipleChoiceTest/blob/master/public/UpdateAnswer.png)
-
-#### Graphic Logic Diagram  
-![Diagram](https://github.com/nhandora123/ManageMultipleChoiceTest/blob/master/public/LogicDiagram.png)
